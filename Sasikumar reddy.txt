@@ -1,2 +1,6 @@
 Sasikumar reddy
+<<<<<<< HEAD
 Hi 
+=======
+Welcome
+>>>>>>> d84c0a9fe7905f19e226b0798d919fdee44a88d1
